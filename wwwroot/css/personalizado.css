@@ -1,0 +1,42 @@
+﻿#logo {
+    width: 100px;
+    border-radius: 50%
+}
+
+.seccion-tienda {
+    margin: 2rem 0 2rem 0;
+}
+
+.seccion-tienda h1 {
+    font-family:Franklin Gothic Medium;
+    color: white
+}
+
+#foto {
+    width: 300px;
+    margin: 2rem 0;
+    border-radius: 50%
+}
+
+
+h2 {
+    font-family:Times New Roman;
+    color: white;
+    font-size: 20px
+}
+
+#carrito {
+    width: 30px;
+    margin: 2rem 0;
+    border-radius: 50%
+}
+
+h3 {
+    font-family: Times New Roman;
+    color: white;
+    font-size: 18px
+}
+
+
+
+

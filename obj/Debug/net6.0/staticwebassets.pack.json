@@ -1,0 +1,789 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Gaming Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Gaming Store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\css\\personalizado.css",
+      "PackagePath": "staticwebassets\\css\\personalizado.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\5pro.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\5pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\BANNER REDRAGONXD.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\BANNER REDRAGONXD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\FX516.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\FX516.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\FX516BLANCO.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\FX516BLANCO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\FX516BLANCOS.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\FX516BLANCOS.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\FX516PCC.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\FX516PCC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\Fx516PC.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Fx516PC.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\GE75RAIDER.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\GE75RAIDER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\GL66.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\GL66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\GL666.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\GL666.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\IDEAPAD 3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\IDEAPAD 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\IDEAPAD GAMING.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\IDEAPAD GAMING.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\IDEAPAD.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\IDEAPAD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\LENOVO L340.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\LENOVO L340.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\LENOVO LEGI.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\LENOVO LEGI.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\LENOVO LEGIONY720.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\LENOVO LEGIONY720.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\LOGITECH-PERU-BANNER.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\LOGITECH-PERU-BANNER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI BRAVO.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI BRAVO.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI GE75.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI GE75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI GF65.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI GF65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI GL66.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI GL66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI LEOPARD.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI LEOPARD.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI PULSE.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI PULSE.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\MSI STEA.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\MSI STEA.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\RAIDER.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\RAIDER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\ROGG.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ROGG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\ROGGG.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ROGGG.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\SHIVA.png",
+      "PackagePath": "staticwebassets\\imagenes\\SHIVA.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\STEALH.png",
+      "PackagePath": "staticwebassets\\imagenes\\STEALH.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\STEALHH.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\STEALHH.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\TUF.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\TUF.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\TUF1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\TUF1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\TUF2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\TUF2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\XboxElite2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\XboxElite2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\Xboxgamepass.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Xboxgamepass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\Zephy.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Zephy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\Zephyy.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Zephyy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as7.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\as8.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\as8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\banerhyperx.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banerhyperx.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\banersteelseries.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banersteelseries.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\banner asus.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banner asus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\banner hyper.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banner hyper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\banner lenovo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\banner lenovo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\bannerasus.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\bannerasus.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\bravo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\bravo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\bravoo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\bravoo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\consola nintendo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\consola nintendo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\core1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\core1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\core2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\core2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\dity1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\dity1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\dity2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\dity2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\e1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\ei.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ei.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\f15.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\f15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h7.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\h8.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\h8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\hyper1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\hyper1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\hyper2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\hyper2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\hyper3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\hyper3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\hyper4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\hyper4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\hyper6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\hyper6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\idea1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\idea1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\idea3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\idea3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\idea33.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\idea33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\idea55.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\idea55.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\leopard.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\leopard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\leopardd.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\leopardd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitech1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitech1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitech2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitech2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitech3 (1).jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitech3 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitech3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitech3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitech4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitech4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitech5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitech5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitechg213.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitechg213.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logitechg2132.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logitechg2132.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\logo_ref.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\logo_ref.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\magic 1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\magic 1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\magic2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\magic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandoderealidadvirtual.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mandoderealidadvirtual.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandops1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mandops1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandops2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mandops2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandops3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mandops3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandops4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mandops4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandops5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\mandops5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\mandorealidadvirtual.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\mandorealidadvirtual.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\msi banner.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\msi banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\nintendo mando.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nintendo mando.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\nintendocargador.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nintendocargador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\nintendojoycon.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nintendojoycon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\nintendojoycons.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nintendojoycons.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\nintendojoypad.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nintendojoypad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\nintendomandosupernintendo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\nintendomandosupernintendo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\ori1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ori1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\ori2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\ori2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\pro5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\pro5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\redragon 4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\redragon 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\redragon1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\redragon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\redragon2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\redragon2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\redragon3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\redragon3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\redragon5.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\redragon5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\redragon6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\redragon6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\shiva white.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\shiva white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel4.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel7.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\tel8.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\tel8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xbox360controler.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\xbox360controler.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xboxcargador.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\xboxcargador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xboxmando.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\xboxmando.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xboxmandocloud.png",
+      "PackagePath": "staticwebassets\\imagenes\\xboxmandocloud.png"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xboxmandoparapc.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\xboxmandoparapc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xboxsoporteparatelefono.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\xboxsoporteparatelefono.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\imagenes\\xboxsoporteparatelefono.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\xboxsoporteparatelefono.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\Cibertec 4\\Programación Orientada a Objetos II\\Gaming Store\\Gaming Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Gaming Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Gaming Store.props",
+      "PackagePath": "build\\Gaming Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Gaming Store.props",
+      "PackagePath": "buildMultiTargeting\\Gaming Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Gaming Store.props",
+      "PackagePath": "buildTransitive\\Gaming Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
